@@ -1,8 +1,8 @@
 # 3DRouting
 
 ## Table of Contents
-> - Introduction
-> - Object
+* [1. Introduction]
+- Object
 - Environment
 - Core Idea
 - Result Show
