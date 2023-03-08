@@ -1,7 +1,7 @@
 # 3DRouting
 
 ## Table of Contents
-* [Introduction](1)
+* [Introduction](#1)
 * [Object](2)
 * [Environment](3)
 * [Core Idea](4)
