@@ -11,6 +11,7 @@
 In recent years, with the advancement of biochip technology, MEDA, a biochip with smaller individual electrodes, has been widely used in biochemistry experiments such as DNA detection, protein analysis, PCR detection, etc. MEDA is one-tenth of the size of DMFB compared to traditional biochips such as DMFB. MEDA also allows for diagonal droplet movement, a feature that makes MEDA more flexible in biochemistry experiments and makes traditional DMFB-based routing algorithms unsuitable. It is for this reason that our lab proposes a 3D routing algorithm based on MEDA.
 
 ### <h3 id="2">Object</h3>
+In some specific biological experiments, multiple droplets of the same type are required to be routed from different starting positions to a specified location for a series of biochemical reactions. Therefore, this project aims to ***minimize the time of multiple droplet routing*** by our design routing algorithm. Also, due to the property that droplet routing of the same type droplet in MEDA can share the same cell at different times, we propose a 3D routing algorithm.
 
 ### <h3 id="3">Environment</h3>
 
