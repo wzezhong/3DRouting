@@ -23,7 +23,9 @@ We simulate the form of droplet routing on MEDA by constructing a model. The cor
 ### <h3 id="5">Result Show</h3>
 ***This graph is one of example result by our algorithm. This is a 2D vision for 3 same type droplets routing.***
 <img src="./photo/Figure_4.png" title="2D Graph">
+
 ***The following graph is 3D vision.***
+
 <img src="./photo/Figure_41.png" title="3D Graph">
 <img src="./photo/Figure_42.png" title="3D Graph">
 <img src="./photo/Figure_43.png" title="3D Graph">
