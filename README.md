@@ -21,3 +21,4 @@ We simulate the form of droplet routing on MEDA by constructing a model. The cor
 ### <h3 id="4">Core Idea</h3>
 
 ### <h3 id="5">Result Show</h3>
+!(./photo/Figure_4.png "2D")
